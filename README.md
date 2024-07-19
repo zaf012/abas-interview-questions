@@ -52,5 +52,15 @@ Kodların çıktıları :
 <img width="804" alt="image" src="https://github.com/user-attachments/assets/c5f4c898-a5eb-4bcb-9e58-0a80b23bc06a">
 
 
+Post ve Get Request ve Response Örneği : 
+
+Aşağıda belirttiğim github linkinden daha önce hazırladığım bir projenin README dosyasından daha detaylı isteklere ulaşabilirsiniz. 
+Mevcutta atılan bir POST isteğinin body'si ve response'u aşağıda mevcuttur.
+
+https://github.com/zaf012/eva-exchange-api/blob/main/README.md
+
+<img width="1082" alt="image" src="https://github.com/user-attachments/assets/3287d987-635a-4842-b349-ea4d58be8f06">
+
+
 
 
